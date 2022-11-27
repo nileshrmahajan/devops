@@ -1,5 +1,5 @@
 variable "s3_bucket_name" {
-  default = "dhatadmatad"
+  default =
 }
 
 variable "s3_acl" {
